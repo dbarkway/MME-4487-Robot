@@ -2,9 +2,7 @@
 //Class: MME 4487a Mechatronic System Design
 //Professor: Dr. Michael Naish
 //By: David Barkway, Richard Fotevski, Mateen Khalatbari, Gareth Cooper
-//Description: This code is to run our robot controlled by a playstation 5 controller. Coded to have precise direction control,
-//             the ability to turn on a tight radius, sort beads based on color, store the green beads, and dump the green beads
-//             into a bin at the end.
+//Description: This code is to run our robots driving system with gear motors and a Playstation controller
 
 
 #include <ps5Controller.h>
